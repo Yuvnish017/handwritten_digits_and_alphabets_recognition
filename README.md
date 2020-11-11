@@ -1,5 +1,4 @@
-# handwritten_digits_recognition
-Handwritten Digits and Alphabets Detection
+# handwritten_digits_and_alphabets_recognition
 
 In this project we tried to detect handwritten digits and alphabets and recognize them correctly using Convolutional Neural Networks (CNNs).
 
